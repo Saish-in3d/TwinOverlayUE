@@ -1,0 +1,3 @@
+[submodule "Plugins/SynthPass"]
+	path = Plugins/SynthPass
+	url = https://github.com/Saish-in3d/SynthPass.git
